@@ -1,6 +1,6 @@
 #MObile application by flutter/dart
 
-##โปรเจคแสดงหน้า Home,Login,Signup โดยเน้น ui เป้นหลัก
+##โปรเจคแสดงหน้า Home , Login , Signup โดยเน้น ui เป้นหลัก
 
 <kbd> <img  height="250" alt="localhost_54043_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/fc2dc4ce-148b-4b0d-ba09-51964ae0ee4b"  /><kbd/>
 
