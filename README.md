@@ -1,17 +1,10 @@
-# flutter_saulife_app
+#MObile application by flutter/dart
 
-A new Flutter project.
+##โปรเจคแสดงหน้า Home,Login,Signup โดยเน้น ui เป้นหลัก
 
-## Getting Started
+<kbd> <img  height="250" alt="localhost_54043_(iPhone 14 Pro Max)" src="https://github.com/user-attachments/assets/fc2dc4ce-148b-4b0d-ba09-51964ae0ee4b"  /><kbd/>
 
-This project is a starting point for a Flutter application.
+<kbd><img  height="250" alt="localhost_54043_(iPhone 14 Pro Max) (1)" src="https://github.com/user-attachments/assets/c4d771f6-d17e-4ab5-a779-9278222b0dae" /><kbd/>
 
-A few resources to get you started if this is your first Flutter project:
+<kbd><img  height="250" alt="localhost_54043_(iPhone 14 Pro Max) (2)" src="https://github.com/user-attachments/assets/0d75a569-e122-4b8d-926b-043d723da298" /> <kbd/>
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
